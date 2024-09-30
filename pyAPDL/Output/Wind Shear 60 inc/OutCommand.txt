@@ -1,0 +1,4 @@
+/post1
+/output,F:/Kuliah/Tesis/Program/ANSYS_APDL/NREL5MW/Displacement-13.txt
+PRNSOL,U,SUM
+/out
